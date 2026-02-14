@@ -1,4 +1,3 @@
-" LSP logging - put this at the very top
 if has('win32') || has('win64')
     let g:lsp_log_file = expand('C:\\Users\\Pancakes\\vim-lsp.log')
 else
